@@ -10,5 +10,5 @@ Jupyter Notebook: Provides an interactive environment to understand the algorith
 YouTube Channel: codeandteawithsami
 Don't forget to check out the corresponding YouTube video on my channel, where I explain the ELM algorithm, its advantages, and walk you through the code implementation. Whether you're new to machine learning or looking to explore a unique approach, grab a cup of tea and join me on this learning journey!
 
-Link to YouTube Channel: codeandteawithsami
+Link to YouTube Channel: codeandteawithsami(https://www.youtube.com/@codeandteawithsami)
 
